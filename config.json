@@ -1,5 +1,5 @@
 {
-	"ip":"Reegzu.aternos.me",
-	"port": "64382",
+	"ip":"Reegzu.aternos.me:64382",
+	"port": ":64382",
 	"name": "AFK_BOT_DO_NOT_KILL"
 }
